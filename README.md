@@ -49,9 +49,5 @@ matplotlib
 Pillow (Görsel işleme için)
 
 Çalıştırma
-Bash
-# Depoyu klonlayın
-git clone https://github.com/kullanici_adin/windkessel-vad-analysis.git
-
 # Notebook'u Google Colab veya Jupyter üzerinden açın
 # Tüm hücreleri sırayla (Run All) çalıştırın.
